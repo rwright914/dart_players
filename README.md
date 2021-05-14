@@ -8,10 +8,10 @@
 
 ### File Index
 > 1. README.md
-2. preliminary_findings_report.ipynb
-3. exploratory_data_analysis.ipynb
-4. dart_presentation.pdf
-5. data folder
+> 2. preliminary_findings_report.ipynb
+> 3. exploratory_data_analysis.ipynb
+> 4. dart_presentation.pdf
+> 5. data folder
 
 ## Author Information
 > Authored by Rebecca Wright.<br>
